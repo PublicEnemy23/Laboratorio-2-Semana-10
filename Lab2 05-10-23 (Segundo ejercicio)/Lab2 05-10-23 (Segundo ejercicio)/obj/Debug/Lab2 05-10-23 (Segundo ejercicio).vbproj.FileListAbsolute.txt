@@ -1,0 +1,11 @@
+D:\Users\enriq\Documents\Proyectos VB\Lab2 05-10-23 (Segundo ejercicio)\Lab2 05-10-23 (Segundo ejercicio)\bin\Debug\Lab2 05-10-23 (Segundo ejercicio).exe.config
+D:\Users\enriq\Documents\Proyectos VB\Lab2 05-10-23 (Segundo ejercicio)\Lab2 05-10-23 (Segundo ejercicio)\bin\Debug\Lab2 05-10-23 (Segundo ejercicio).exe
+D:\Users\enriq\Documents\Proyectos VB\Lab2 05-10-23 (Segundo ejercicio)\Lab2 05-10-23 (Segundo ejercicio)\bin\Debug\Lab2 05-10-23 (Segundo ejercicio).pdb
+D:\Users\enriq\Documents\Proyectos VB\Lab2 05-10-23 (Segundo ejercicio)\Lab2 05-10-23 (Segundo ejercicio)\bin\Debug\Lab2 05-10-23 (Segundo ejercicio).xml
+D:\Users\enriq\Documents\Proyectos VB\Lab2 05-10-23 (Segundo ejercicio)\Lab2 05-10-23 (Segundo ejercicio)\obj\Debug\Lab2 05-10-23 (Segundo ejercicio).vbproj.AssemblyReference.cache
+D:\Users\enriq\Documents\Proyectos VB\Lab2 05-10-23 (Segundo ejercicio)\Lab2 05-10-23 (Segundo ejercicio)\obj\Debug\Lab2_05_10_23__Segundo_ejercicio_.Resources.resources
+D:\Users\enriq\Documents\Proyectos VB\Lab2 05-10-23 (Segundo ejercicio)\Lab2 05-10-23 (Segundo ejercicio)\obj\Debug\Lab2 05-10-23 (Segundo ejercicio).vbproj.GenerateResource.cache
+D:\Users\enriq\Documents\Proyectos VB\Lab2 05-10-23 (Segundo ejercicio)\Lab2 05-10-23 (Segundo ejercicio)\obj\Debug\Lab2 05-10-23 (Segundo ejercicio).vbproj.CoreCompileInputs.cache
+D:\Users\enriq\Documents\Proyectos VB\Lab2 05-10-23 (Segundo ejercicio)\Lab2 05-10-23 (Segundo ejercicio)\obj\Debug\Lab2 05-10-23 (Segundo ejercicio).exe
+D:\Users\enriq\Documents\Proyectos VB\Lab2 05-10-23 (Segundo ejercicio)\Lab2 05-10-23 (Segundo ejercicio)\obj\Debug\Lab2 05-10-23 (Segundo ejercicio).xml
+D:\Users\enriq\Documents\Proyectos VB\Lab2 05-10-23 (Segundo ejercicio)\Lab2 05-10-23 (Segundo ejercicio)\obj\Debug\Lab2 05-10-23 (Segundo ejercicio).pdb
